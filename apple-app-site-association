@@ -1,6 +1,12 @@
 {
  "appclips": {
-        "appID": "FR669B5D7M.com.baidu.BaiduDebugC.Clip"
+        "apps": ["FR669B5D7M.com.baidu.BaiduDebugC.Clip"],
+        "details": [
+            {
+                "appID": "FR669B5D7M.com.baidu.BaiduDebugC.Clip",
+                "paths": ["*"]
+            }
+        ]
   },
   "applinks": {
         "apps": [],
