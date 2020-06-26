@@ -12,55 +12,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "B83JBVZ6M5.com.baidu.BaiduMobile",
-                "paths": ["*"]
-            },
-            {
-                "appID": "WU4KBMPVG4.com.baidu.BaiduDebugA",
-                "paths": ["*"]
-            },
-            {
-                "appID": "67FBLJF76L.com.baidu.BaiduDebugB",
-                "paths": ["*"]
-            },
-            {
                 "appID": "FR669B5D7M.com.baidu.BaiduDebugC",
-                "paths": ["*"]
-            },
-            {
-                "appID": "WU4KBMPVG4.com.baidu.BaiduMobileDevA",
-                "paths": ["*"]
-            },
-            {
-                "appID": "67FBLJF76L.com.baidu.BaiduMobileDebugB",
-                "paths": ["*"]
-            },
-            {
-                "appID": "HVH7N49PWV.com.baidu.BaiduMobileDebugQA",
-                "paths": ["*"]
-            },
-            {
-                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseA",
-                "paths": ["*"]
-            },
-            {
-                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseB",
-                "paths": ["*"]
-            },
-            {
-                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseC",
-                "paths": ["*"]
-            },
-            {
-                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseD",
-                "paths": ["*"]
-            },
-            {
-                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseE",
-                "paths": ["*"]
-            },
-            {
-                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseF",
                 "paths": ["*"]
             }
         ]
